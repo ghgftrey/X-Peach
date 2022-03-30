@@ -1,0 +1,14 @@
+﻿{
+    "name": "hopps",
+    "description": "Any",
+    "logo":"whoo",
+    "keywords": ["year"],
+    "env": {
+        "UUID": {
+            "description": "c9e581f2-72e9-4fc9-9ca0-827ef1f4d4d0-> (https://www.uuidgenerator.net/) ",
+            "required": true        
+        }
+    },
+    "repository": "https://github.com/ghgftrey/X-Peach",
+    "stack": "container"
+}
